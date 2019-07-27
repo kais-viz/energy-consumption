@@ -1,0 +1,19 @@
+.col-sm-3 {
+    padding-left: 7px;
+}
+
+.info-box-number {
+    font-size: 16px;
+}
+
+.info-box-text{
+    display: none;
+}
+
+.box-body{
+	margin-top: 5px;
+}
+
+.box-body a{
+	color: #013f63;
+}
